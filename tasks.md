@@ -85,23 +85,23 @@ Call `getMostComplexSong` and print its return value.
 
 ### Extra 2
 
-How would you display the name of all the vendors in the products list? 
-How would you filter the products list to only show products that require shipping? 
-How would you display the total price of all the products in the list? 
-How would you group the products by vendor and display the name of the vendor and the number of products associated with them? 
-How would you find the average price of all the products in the list? 
-How would you find the total number of tracks in the products list? 
-How would you filter the products list to only show products that are currently available? 
-How would you display the name of the product and its vendor for each product in the list? 
-How would you find the total number of bytes of all the tracks in the products list? 
-How would you find the average number of milliseconds for all the tracks in the products list? 
-How would you filter the products list to only show products that are taxable? 
-How would you find the total number of unique vendors in the products list? 
-How would you display the name of the product, its price, and its vendor for each product in the list? 
-How would you find the total number of tracks with a unit price of 0.99 in the products list? 
-How would you group the products by genre and display the name of the genre and the number of products associated with them? 
-How would you find the total number of tracks in the products list that were composed by Angus Young? 
-How would you filter the products list to only show products that have a vendor with the name "AC/DC"? 
-How would you find the average number of bytes for all the tracks in the products list? 
-How would you group the products by media type and display the name of the media type and the number of products associated with them? 
+How would you display the name of all the vendors in the products list?  
+How would you filter the products list to only show products that require shipping?  
+How would you display the total price of all the products in the list?  
+How would you group the products by vendor and display the name of the vendor and the number of products associated with them?  
+How would you find the average price of all the products in the list?  
+How would you find the total number of tracks in the products list?  
+How would you filter the products list to only show products that are currently available?  
+How would you display the name of the product and its vendor for each product in the list?  
+How would you find the total number of bytes of all the tracks in the products list?  
+How would you find the average number of milliseconds for all the tracks in the products list?  
+How would you filter the products list to only show products that are taxable?  
+How would you find the total number of unique vendors in the products list?  
+How would you display the name of the product, its price, and its vendor for each product in the list?  
+How would you find the total number of tracks with a unit price of 0.99 in the products list?  
+How would you group the products by genre and display the name of the genre and the number of products associated with them?  
+How would you find the total number of tracks in the products list that were composed by Angus Young?  
+How would you filter the products list to only show products that have a vendor with the name "AC/DC"?  
+How would you find the average number of bytes for all the tracks in the products list?  
+How would you group the products by media type and display the name of the media type and the number of products associated with them?  
 How would you find the total number of tracks in the products list that were composed by Brian Johnson?
