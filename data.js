@@ -1,4 +1,4 @@
-const movies = [
+const albums = [
     {
         "id": 1,
         "name": "For Those About To Rock We Salute You",
@@ -43150,4 +43150,4 @@ const movies = [
     }
 ];
 
-export { movies };
+export { albums };

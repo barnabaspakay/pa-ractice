@@ -1,6 +1,6 @@
-import { movies } from './data.js';
+import { albums } from './data.js';
 
-console.log(movies[0])
+console.log(albums[0])
 
 
 // Write your code here
