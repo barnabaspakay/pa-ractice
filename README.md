@@ -1,8 +1,7 @@
 # PA practices
 
 ## How to start
- - Fork this repository
-- Clone your forked repository
+- Clone the repository
 - Solve the tasks in the `data.js` file
 - Log your solution to the console with `console.log` command
 - Create a function for each task
